@@ -1,0 +1,13 @@
+#+TITLE: KickStart2021
+#+AUTHOR: Tanguy Mazé
+* Round A
+
+| Exercices         | Points | Time       |
+|-------------------+--------+------------|
+| K-Goodness String | 12     | 0:47:41 +2 |
+| L-Shaped Plots    | 8      | 1:52:44 +0 |
+| Rabbit House      | 0      | ---        |
+| Checksum          | 0      | ---        |
+| Total             | 20     | 2:00:44    |
+
+[[file:Kickstart2021_RoundA_tmaze.png]]
